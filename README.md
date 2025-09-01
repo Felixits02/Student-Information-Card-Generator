@@ -1,13 +1,14 @@
 Live Demo : https://felixits02.github.io/Student-Information-Card-Generator/
 
 <h2>Features</h2>
-Modern & Clean UI – professional card-style design.
+<p>Modern & Clean UI – professional card-style design.</p>
 Responsive Layout – works smoothly on mobile, tablet, and desktop.
 Dynamic Card Preview – updates instantly when user fills the form.
 Easy to Use – simple form input, no backend required.
 Beginner-Friendly Project – great for practicing frontend development.
 
 <h2>Tech Stack</h2>
+
 HTML5 – structure
 
 CSS3 – styling & responsiveness
